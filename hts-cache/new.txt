@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:36:36	26741/26741	---M--	200	added ('OK')	text/html	date:Sat,%2024%20Apr%202021%2019:36:34%20GMT	https://kevinx.kevintalks99.repl.co/	C:/My%20Web%20Sites/odl/kevinx.kevintalks99.repl.co/index.html	(from )
+12:36:36	4291/4291	---MC-	404	error ('Not%20Found')	text/html	date:Sat,%2024%20Apr%202021%2019:36:34%20GMT	https://kevinx.kevintalks99.repl.co/robots.txt		(from )
+12:36:37	4291/4291	---MC-	404	error ('Not%20Found')	text/html	date:Sat,%2024%20Apr%202021%2019:36:34%20GMT	https://kevinx.kevintalks99.repl.co/assets/images/card9184.jpg?v=0c921119	C:/My%20Web%20Sites/odl/kevinx.kevintalks99.repl.co/assets/images/card9184.09184.delayed	(from https://kevinx.kevintalks99.repl.co/)
+12:36:37	26741/26741	---M--	200	added ('OK')	text/html	date:Sat,%2024%20Apr%202021%2019:36:35%20GMT	https://kevinx.kevintalks99.repl.co/index.html	C:/My%20Web%20Sites/odl/kevinx.kevintalks99.repl.co/index-2.html	(from https://kevinx.kevintalks99.repl.co/)
